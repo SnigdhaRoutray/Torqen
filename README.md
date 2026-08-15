@@ -1,6 +1,6 @@
 # Torqen: Cost-Aware Maintenance Decision Intelligence
 
-Torqen is a cost-aware predictive maintenance framework that goes beyond failure prediction. It diagnoses likely failure modes, converts risk into a MONITOR/SCHEDULE/STOP decision using an expected-cost model, prioritizes interventions under a maintenance-capacity constraint, and compares the resulting policy against Reactive and Fixed-Schedule maintenance via simulation — using the AI4I 2020 predictive maintenance dataset.
+Torqen is a cost-aware predictive maintenance framework that goes beyond failure prediction. It diagnoses likely failure modes, converts risk into a MONITOR/SCHEDULE/STOP decision using an expected-cost model, prioritizes interventions under a maintenance-capacity constraint, and compares the resulting policy against Reactive and Fixed-Schedule maintenance via simulation using the AI4I 2020 predictive maintenance dataset.
 
 ## Folder Structure
 
