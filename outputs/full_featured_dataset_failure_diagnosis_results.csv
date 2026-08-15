@@ -1,0 +1,6 @@
+failure_mode,support,precision,recall,f1,note
+TWF,46,0.917,0.786,0.846,
+HDF,115,0.971,0.971,0.971,
+PWF,95,1.0,1.0,1.0,
+OSF,98,0.967,1.0,0.983,
+RNF,1,,,,insufficient samples

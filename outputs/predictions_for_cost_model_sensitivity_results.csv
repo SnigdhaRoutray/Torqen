@@ -1,0 +1,10 @@
+scenario,emergency_failure_cost,policy,total_cost,uncaught_failures,failures_caught,avg_flags_per_period
+Low downtime cost,9000,Reactive,3357000,373,,
+Low downtime cost,9000,Fixed Schedule,3300000,280,,
+Low downtime cost,9000,Torqen,1025100,58,315.0,19.5
+Baseline,18000,Reactive,6714000,373,,
+Baseline,18000,Fixed Schedule,5820000,280,,
+Baseline,18000,Torqen,1547100,58,315.0,19.5
+High downtime cost,30000,Reactive,11190000,373,,
+High downtime cost,30000,Fixed Schedule,9180000,280,,
+High downtime cost,30000,Torqen,2243100,58,315.0,19.5
